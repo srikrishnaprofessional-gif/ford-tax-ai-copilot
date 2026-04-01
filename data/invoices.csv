@@ -1,5 +1,4 @@
-transaction_id,product,location,amount
-1,vehicle,US,40000
-2,parts,EU,12000
-3,vehicle,India,30000
-4,services,US,8000
+invoice_id,vendor,po_amount,invoice_amount
+1,VendorA,10000,10000
+2,VendorB,15000,18000
+3,VendorC,20000,20000
