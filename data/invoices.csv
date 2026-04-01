@@ -1,0 +1,5 @@
+transaction_id,product,location,amount
+1,vehicle,US,40000
+2,parts,EU,12000
+3,vehicle,India,30000
+4,services,US,8000
